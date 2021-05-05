@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\Informações da pessoa\bin\Debug\net5.0\Informações da pessoa.exe
+C:\Users\dev\Desktop\Informações da pessoa\bin\Debug\net5.0\Informações da pessoa.deps.json
+C:\Users\dev\Desktop\Informações da pessoa\bin\Debug\net5.0\Informações da pessoa.runtimeconfig.json
+C:\Users\dev\Desktop\Informações da pessoa\bin\Debug\net5.0\Informações da pessoa.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Informações da pessoa\bin\Debug\net5.0\Informações da pessoa.dll
+C:\Users\dev\Desktop\Informações da pessoa\bin\Debug\net5.0\ref\Informações da pessoa.dll
+C:\Users\dev\Desktop\Informações da pessoa\bin\Debug\net5.0\Informações da pessoa.pdb
+C:\Users\dev\Desktop\Informações da pessoa\obj\Debug\net5.0\Informações da pessoa.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Informações da pessoa\obj\Debug\net5.0\Informações da pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Informações da pessoa\obj\Debug\net5.0\Informações da pessoa.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Informações da pessoa\obj\Debug\net5.0\Informações da pessoa.AssemblyInfo.cs
+C:\Users\dev\Desktop\Informações da pessoa\obj\Debug\net5.0\Informações da pessoa.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Informações da pessoa\obj\Debug\net5.0\Informações da pessoa.dll
+C:\Users\dev\Desktop\Informações da pessoa\obj\Debug\net5.0\ref\Informações da pessoa.dll
+C:\Users\dev\Desktop\Informações da pessoa\obj\Debug\net5.0\Informações da pessoa.pdb
+C:\Users\dev\Desktop\Informações da pessoa\obj\Debug\net5.0\Informações da pessoa.genruntimeconfig.cache

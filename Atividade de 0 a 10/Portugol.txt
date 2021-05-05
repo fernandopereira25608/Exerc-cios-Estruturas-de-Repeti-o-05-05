@@ -1,0 +1,82 @@
+1.Faça um programa que peça uma nota, entre zero e dez. Mostre uma
+mensagem caso o valor seja inválido e continue pedindo até que o usuário
+informe um valor válido.
+
+Inicio
+
+LÓGICO numeroValido = FALSO 
+
+FAÇA
+
+    ESCREVAL("Insira um número entre 0 a 10:")
+    NUMERICO numero
+    LEIA(numero) 
+    SE numero <= 10 E numero >= 0:
+        numeroValido = VERDADEIRO
+        ESCREVAL Esse Número é Válido!
+        ESCREVAL Fim da Execução!
+    SENÃO:
+        ESCREVAL Numero Inválido
+
+
+ENQUANTO numeroValido == FALSO
+
+Fim
+
+---------------------------------------------------
+
+2.Faça um programa que leia um nome de usuário e a sua senha e não
+aceite a senha igual ao nome do usuário, mostrando uma mensagem de erro
+e voltando a pedir as informações.
+
+Inicio
+
+LÓGICO respostaCorreta = FALSO
+
+FAÇA 
+
+    ESCREVAL ("Digite seu nome de Usuário")
+    CARACTERE respostaUsuario
+    LEIA (nome)
+
+    ESCREVAL ("Digite sua Senha")
+    CARACTERE respostaSenha
+    LEIA (nome)
+
+    SE (respostaUsuario == COMPR(respostaSenha) < 10)
+
+FAÇA 
+
+    ESCREVAL (ERRO: Seu usuário e sua senha inválidos, digite outra senha!)
+    LEIA (respostaSenha)
+
+ENQUANTO 
+
+    ESCREVAL (ERRO: Seu usuário e sua senha inválidos, digite outra senha!)
+    LEIA (respostaSenha)
+
+    respostaCorreta = VERDADEIRO
+    ESCREVAL (Parabéns, seu Usuário e senha estão corretas!)
+
+    ENQUANTO respostaCorreta == FALSO
+
+    Fim
+
+---------------------------------------------------------------------
+
+3.Faça um programa que leia e valide as seguintes informações:
+Nome: diferente de vazio;
+Idade: entre 0 e 150;
+Salário: maior que zero;
+Estado Civil: &#39;s&#39;(solteiro(a)), (casado(a)), (viuvo(a)),
+(divorciado(a));
+
+Inicio
+
+
+
+
+
+
+
+
